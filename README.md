@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=GouravSardana&show_icons=true&theme=tokyonight" alt="shubhank-saxena" /> </p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=GouravSardana&show_icons=true&theme=tokyonight" alt="Gourav-Sardana" /> </p>
 
 <p align="center">
 <a href="https://twitter.com/19_saxena"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a>

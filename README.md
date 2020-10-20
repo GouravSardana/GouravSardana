@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything [here](https://github.com/GouravSardana/GouravSardana/issues/1)! I am happy to help.
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript  .
 - 📫 How to reach me: gsardana001@gmail.com
-- 📝 [Resume](https://github.com/GouravSardana/GouravSardana/files/4981488/Gourav-Resume.pdf)
+- 📝 [Resume](https://github.com/GouravSardana/GouravSardana/files/5407323/gsardana001.pdf)
 
 
 

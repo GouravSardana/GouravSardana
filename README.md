@@ -1,7 +1,4 @@
 ### Hi World 👋  
-<img src="https://user-images.githubusercontent.com/31731827/88534938-b1e30000-d026-11ea-81f8-cc597f0e2a89.gif" width="100">
-
-
 <!--
 **GouravSardana/GouravSardana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
